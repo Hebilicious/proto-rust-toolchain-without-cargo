@@ -29,7 +29,7 @@ Exit code 1 and `BUG: the toolchain has no cargo.` show the bug.
 
 ## Fix
 
-Fix: https://github.com/Hebilicious/moonrepo-plugins/pull/PR_NUMBER
+Fix: https://github.com/Hebilicious/moonrepo-plugins/pull/2 (issue: https://github.com/Hebilicious/moonrepo-plugins/issues/1)
 
 To test a build of the plugin, mount it and give its URL:
 
